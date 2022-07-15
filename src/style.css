@@ -32,7 +32,7 @@
   }
 
   .read-the-docs {
-    @apply text-neutral-900
+    @apply text-neutral-900;
   }
 
   @media (prefers-color-scheme: light) {
